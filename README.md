@@ -16,6 +16,7 @@ https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes
 
 # Angular2
 http://loiane.training/curso/angular-2/
+http://jornadadodev.com.br/cursos/curso-de-angular-2
 
 
 # Intel XDK
@@ -24,3 +25,17 @@ https://www.udemy.com/minicurso-intel-xdk
 
 # Ionic 2
 http://ilovecode.com.br/curso-completo-e-gratis-de-ionic-2-em-portugues/
+http://jornadadodev.com.br/cursos/curso-recriando-o-uber-com-ionic-2
+http://jornadadodev.com.br/cursos/curso-de-desenvolvimento-de-aplicativos-com-ionic-2
+
+
+# MongoDB
+http://jornadadodev.com.br/cursos/curso-de-mongodb
+
+
+# Javascript
+http://jornadadodev.com.br/cursos/curso-completo-de-javascript
+
+
+# NodeJS
+http://jornadadodev.com.br/cursos/curso-de-nodejs
