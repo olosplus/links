@@ -19,14 +19,14 @@ http://loiane.training/curso/angular-2/
 http://jornadadodev.com.br/cursos/curso-de-angular-2
 
 
-# Intel XDK
-https://www.udemy.com/minicurso-intel-xdk
-
-
 # Ionic 2
 http://ilovecode.com.br/curso-completo-e-gratis-de-ionic-2-em-portugues/
 http://jornadadodev.com.br/cursos/curso-recriando-o-uber-com-ionic-2
 http://jornadadodev.com.br/cursos/curso-de-desenvolvimento-de-aplicativos-com-ionic-2
+
+
+# Intel XDK
+https://www.udemy.com/minicurso-intel-xdk
 
 
 # MongoDB
@@ -39,3 +39,12 @@ http://jornadadodev.com.br/cursos/curso-completo-de-javascript
 
 # NodeJS
 http://jornadadodev.com.br/cursos/curso-de-nodejs
+
+
+# Progressive Web Apps
+http://slides.com/joselitojunior1/progressive-apps#/
+https://www.youtube.com/watch?v=l6g9_WFjxGg
+
+
+# Web Components
+https://www.youtube.com/watch?v=AfOis1W-pkU
