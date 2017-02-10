@@ -42,7 +42,7 @@ http://jornadadodev.com.br/cursos/curso-de-nodejs
 
 
 # Progressive Web Apps
-http://slides.com/joselitojunior1/progressive-apps#/
+http://slides.com/joselitojunior1/progressive-apps
 https://www.youtube.com/watch?v=l6g9_WFjxGg
 
 
